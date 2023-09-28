@@ -1,7 +1,7 @@
 ![logo](https://github.com/galvinguy2002/galvinguy2002/blob/main/github-header-image.png)
 <h1 align="center">Hey There , I'm Harshvardhan Saxena</h1>
 <h3 align="center">Software Engineer</h3>
-<p align="center">I'm an avid Technology enthusiast, team player and statistical junkie as called by my colleagues</p>
+<p align="center">I'm an avid Technology enthusiast, Team Player and Statistical Junkie as called by my colleagues</p>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <br>
 
